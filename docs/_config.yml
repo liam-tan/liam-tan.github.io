@@ -22,10 +22,9 @@ title: Liam Tan
 email: liam.tan@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   My personal site detailing my learning progress.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://liam-tan.github.io
+baseurl: ""
+url: "http://liam-tan.github.io"
 github_username:  liam-tan
-
 # Build settings
 theme: jekyll-theme-minimal
 plugins:

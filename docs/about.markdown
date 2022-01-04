@@ -1,18 +1,29 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# About
 
 
-[jekyll-organization]: https://github.com/jekyll
+- University of California, Berkeley (June 2021 - )
+- B.A., Computer Science, Mathematics
+
+## Selected Coursework:
+
+### Summer 2021
+
+- **CS 70** Discrete Mathematics and Probabilty Theory
+
+### Fall 2021
+
+- **Math 110** Linear Algebra (Upper Division)
+    
+- **CS 61A** The Structure and Interpretation of Computer Programs
+    
+- **CS 61B** Data Structures
+
+### Spring 2022
+
+- **EECS 126** Probability and Random Processes
+    
+- **EECS 127** Optimization Models in Engineering
+    
+- **CS 170** Efficient Algorithms and Intractable Problems
+
+
