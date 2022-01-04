@@ -6,9 +6,13 @@
 
 ## Selected Coursework:
 
-### Summer 2021
+### Spring 2022
 
-- **CS 70** Discrete Mathematics and Probabilty Theory
+- **EECS 126** Probability and Random Processes
+    
+- **EECS 127** Optimization Models in Engineering
+    
+- **CS 170** Efficient Algorithms and Intractable Problems
 
 ### Fall 2021
 
@@ -18,12 +22,10 @@
     
 - **CS 61B** Data Structures
 
-### Spring 2022
+### Summer 2021
 
-- **EECS 126** Probability and Random Processes
-    
-- **EECS 127** Optimization Models in Engineering
-    
-- **CS 170** Efficient Algorithms and Intractable Problems
+- **CS 70** Discrete Mathematics and Probabilty Theory
+
+
 
 
