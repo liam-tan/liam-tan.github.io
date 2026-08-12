@@ -19,6 +19,7 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 | Term | Course | Subject | Role |
 | --- | --- | --- | --- |
 | Spring 2022 | CS 70 | Discrete Mathematics and Probability Theory | Reader |
+| Summer 2022 | CS 70 | Discrete Mathematics and Probability Theory | Teaching Assistant |
 | Fall 2022 | CS 170 | Algorithms | Reader |
 | Spring 2023 | CS 182 | Deep Learning | Tutor |
 | Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
