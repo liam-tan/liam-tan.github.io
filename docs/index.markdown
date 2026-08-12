@@ -14,6 +14,12 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 - **Scaling and Self-Improvement in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
 - **Stats/TCS/EE.** Vaguely interested in applied math related to probability, optimization, and theoretical computer science.
 
+## Mathematics Papers
+
+[**Characterizing relative decidability in terms of model completeness**](https://arxiv.org/abs/2604.17039)<br>
+Matthew Harrison-Trainor, **Liam Tan**<br>
+*Under review, 2026*
+
 ## Teaching
 
 | Term | Course | Subject | Role |
@@ -27,15 +33,7 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 | Spring 2024 | Student Learning Center | Upper-division mathematics | Tutor |
 | Fall 2026 | TBD | TBD | TBD |
 
-## Publications
-
-### Mathematics
-
-[**Characterizing relative decidability in terms of model completeness**](https://arxiv.org/abs/2604.17039)<br>
-Matthew Harrison-Trainor, **Liam Tan**<br>
-*Under review, 2026*
-
-### AI & Robotics
+## Other Papers
 
 [**Multi-Stage Cable Routing through Hierarchical Imitation Learning**](https://arxiv.org/abs/2307.08927)<br>
 Jianlan Luo\*, Charles Xu\*, Fangchen Liu, **Liam Tan**, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, Sergey Levine<br>
