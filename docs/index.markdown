@@ -1,37 +1,55 @@
+---
+layout: default
+---
 
-# Hi, I'm Liam
+I am a mathematics PhD student at the University of Illinois, Chicago. I previously did my undergrad at UC Berkeley, where I double majored in Mathematics and Computer Science. Prior to doing math, I dabbled in AI/RL research and was advised by Sergey Levine.
 
+## Research interests
 
+- **Mathematical Logic.** Ideas in computability theory, model theory, and set theory.
 
-<img src="assets/images/photo.jpg" alt="drawing" height="290"/>
+## Other Interests
 
-I'm an undergraduate student at the University of California, Berkeley.
+- **AI in Math.** Closely following progress in mathematical abilities of autonomous AI agents such as GPT 5.6 Sol and Claude Fable. Interested in autoformalization and autonomous proof agents.
+- **Scaling and Self-Improvement in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
+- **Stats/TCS/EE.** Vaguely interested in applied math related to probability, optimization, and theoretical computer science.
 
-I'm currently pursuing a BA in Computer Science and Pure Mathematics. 
+## Teaching
 
-I'm interested in software engineering and the applications of probability.
+| Term | Course | Subject | Role |
+| --- | --- | --- | --- |
+| Spring 2022 | CS 70 | Discrete Mathematics and Probability Theory | Reader |
+| Fall 2022 | CS 170 | Algorithms | Reader |
+| Spring 2023 | CS 182 | Deep Learning | Tutor |
+| Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
+| Fall 2023 | CS 182 | Deep Learning | Tutor |
+| Spring 2024 | Student Learning Center | Upper-division mathematics | Tutor |
+| Fall 2026 | TBD | TBD | TBD |
 
-## [Resume](https://liam-tan.github.io/assets/pdfs/liam-tan-resume.pdf)
+## Publications
 
+### Mathematics
 
-## Selected Coursework:
+[**Characterizing relative decidability in terms of model completeness**](https://arxiv.org/abs/2604.17039)<br>
+Matthew Harrison-Trainor, **Liam Tan**<br>
+*Under review, 2026*
 
-### Spring 2022
+### AI & Robotics
 
-- **EECS 126** Probability and Random Processes
-    
-- **EECS 127** Optimization Models in Engineering
-    
-- **CS 170** Efficient Algorithms and Intractable Problems
+[**Multi-Stage Cable Routing through Hierarchical Imitation Learning**](https://arxiv.org/abs/2307.08927)<br>
+Jianlan Luo\*, Charles Xu\*, Fangchen Liu, **Liam Tan**, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, Sergey Levine<br>
+*IEEE Transactions on Robotics (TRO), 2024*
 
-### Fall 2021
+[**FMB: A Functional Manipulation Benchmark for Generalizable Robotic Learning**](https://doi.org/10.1177/02783649241276017)<br>
+Jianlan Luo\*, Charles Xu\*, Fangchen Liu, **Liam Tan**, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, Sergey Levine<br>
+*International Journal of Robotics Research (IJRR), 2024*
 
-- **Math 110** Linear Algebra (Upper Division)
-    
-- **CS 61A** The Structure and Interpretation of Computer Programs
-    
-- **CS 61B** Data Structures
+[**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/abs/2310.08864)<br>
+Open X-Embodiment Collaboration<br>
+*IEEE International Conference on Robotics and Automation (ICRA), 2024*
 
-### Summer 2021
+\* Equal contribution.
 
-- **CS 70** Discrete Mathematics and Probabilty Theory
+---
+
+_Last updated August 2026._
