@@ -31,7 +31,7 @@ Matthew Harrison-Trainor, **Liam Tan**<br>
 | Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
 | Fall 2023 | CS 182 | Deep Learning | Tutor |
 | Spring 2024 | Student Learning Center | Upper-division mathematics | Tutor |
-| Fall 2026 | MATH 180 | Calculus I | TA |
+| Fall 2026 | MATH 180 | Calculus I | Teaching Assistant |
 
 ## Other Papers
 
