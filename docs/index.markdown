@@ -12,7 +12,7 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 
 - **AI in Math.** Closely following progress in mathematical abilities of autonomous AI agents such as GPT 5.6 Sol and Claude Fable. Interested in autoformalization and autonomous proof agents.
 - **Stats/TCS/EE.** Vaguely interested in applied math related to probability, optimization, and theoretical computer science.
-- **Scaling and Self-Improvement in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
+- **Scaling in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
 
 ## Mathematics Papers
 
