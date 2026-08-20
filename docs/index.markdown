@@ -11,8 +11,8 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 ## Other Interests
 
 - **AI in Math.** Closely following progress in mathematical abilities of autonomous AI agents such as GPT 5.6 Sol and Claude Fable. Interested in autoformalization and autonomous proof agents.
-- **Scaling and Self-Improvement in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
 - **Stats/TCS/EE.** Vaguely interested in applied math related to probability, optimization, and theoretical computer science.
+- **Scaling and Self-Improvement in AI.** Interested in the AI stack: pretraining, scaling, parallelism, post-training and RL, harnesses and safety, distillation and quantization, and agentic swarms.
 
 ## Mathematics Papers
 
@@ -30,7 +30,7 @@ Matthew Harrison-Trainor, **Liam Tan**<br>
 | Spring 2023 | CS 182 | Deep Learning | Tutor |
 | Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
 | Fall 2023 | CS 182 | Deep Learning | Tutor |
-| Spring 2024 | Student Learning Center | Upper-division mathematics | Tutor |
+| Spring 2024 | MATH 110, MATH 113, MATH 104 | Linear Algebra, Abstract Algebra, Real Analysis | Student Learning Center Tutor |
 | Fall 2026 | MATH 180 | Calculus I | Teaching Assistant |
 
 ## Other Papers
