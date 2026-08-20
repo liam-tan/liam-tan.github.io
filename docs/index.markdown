@@ -24,14 +24,14 @@ Matthew Harrison-Trainor, **Liam Tan**<br>
 
 | Term | Course | Subject | Role |
 | --- | --- | --- | --- |
-| Spring 2022 | CS 70 | Discrete Mathematics and Probability Theory | Reader |
-| Summer 2022 | CS 70 | Discrete Mathematics and Probability Theory | Teaching Assistant |
-| Fall 2022 | CS 170 | Algorithms | Reader |
-| Spring 2023 | CS 182 | Deep Learning | Tutor |
-| Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
-| Fall 2023 | CS 182 | Deep Learning | Tutor |
-| Spring 2024 | MATH 110, MATH 113, MATH 104 | Linear Algebra, Abstract Algebra, Real Analysis | Student Learning Center Tutor |
 | Fall 2026 | MATH 180 | Calculus I | Teaching Assistant |
+| Spring 2024 | MATH 110, MATH 113, MATH 104 | Linear Algebra, Abstract Algebra, Real Analysis | Student Learning Center Tutor |
+| Fall 2023 | CS 182 | Deep Learning | Tutor |
+| Spring 2023 | EECS 126 | Probability and Random Processes | Reader |
+| Spring 2023 | CS 182 | Deep Learning | Tutor |
+| Fall 2022 | CS 170 | Algorithms | Reader |
+| Summer 2022 | CS 70 | Discrete Mathematics and Probability Theory | Teaching Assistant |
+| Spring 2022 | CS 70 | Discrete Mathematics and Probability Theory | Reader |
 
 ## Other Papers
 
